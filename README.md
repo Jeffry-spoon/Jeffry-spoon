@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## My WakaTime Coding Stats
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact)](https://wakatime.com/@Jeffry_spoon)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Jeffry_spoon&layout=compact)](https://wakatime.com/@Jeffry_spoon)
 
